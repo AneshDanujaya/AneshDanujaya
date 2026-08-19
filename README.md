@@ -1,120 +1,67 @@
-<div align="center">
-<img src="./assets/banner.jpg" width="100%" alt="banner" />
-</div>
+<h1 align="center">Hi there, I'm Anesh Danujaya 👋</h1>
+<h3 align="center">Software Engineer | Machine Learning Enthusiast | Systems Developer</h3>
 
-<div align="center">
+<p align="center">
+  Welcome to my GitHub profile! I am an undergraduate university student and software engineer based in the Western Province, Sri Lanka. I have a strong passion for building intelligent systems, ranging from computer vision models to low-level systems programming.
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=whoami+%3E+Anesh+Danujaya;role+%3E+Computing+Undergrad+%40+UCSC;stack+%3D+%5BHTML%2C+CSS%2C+JS%2C+PHP%2C+MySQL%5D;goal+%3D+%22ML+Engineering%22" />
+---
 
-</div>
+### 🚀 About Me
 
-<br/>
+- 🔭 **Currently working on:** An **Air Pollution Monitoring** system utilizing satellite imagery, and developing complex **Algorithmic Trading Bots** (focusing on Digits Over/Under, Accumulators, and Martingale strategies) for the Deriv platform.
+- 🌱 **Currently exploring:** Advanced **Computer Vision** (image classification & object detection), **Linux Systems Programming**, and memory management in **C**. 
+- 👨‍💻 **Tech stack includes:** Full-stack web development (PHP/SQL), embedded systems with ESP32 & ultrasonic sensors, and AI-driven image generation using precise prompt engineering.
+- 🤝 **Looking to collaborate on:** Open-source machine learning projects, robotics platforms, cloud architecture (AWS/GCP), or innovative web applications.
+- ⚡ **Outside of tech:** I practice martial arts (specifically Poomsae routines), design custom 1/7 scale commercialized figurines, and create professional branding assets.
 
-<table align="center">
-<tr>
-<td>
+---
 
-```
-┌─────────────────────────────────────────┐
-│  SYSTEM STATUS                           │
-├─────────────────────────────────────────┤
-│  user       : Anesh Danujaya             │
-│  base       : University of Colombo      │
-│               School of Computing        │
-│  year       : 2nd Year, Computing        │
-│  location   : Western Province, LK       │
-│  mode       : team-builder / solo-tinkerer│
-│  status     : web dev → ML engineering   │
-└─────────────────────────────────────────┘
-```
+### 🛠️ Tech Stack & Tools
 
-</td>
-</tr>
-</table>
+**Languages & Systems**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<br/>
+**Machine Learning & AI**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-<div align="center">
+**Hardware & Tools**  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![XML](https://img.shields.io/badge/DBot_XML-000000?style=for-the-badge&logo=xml&logoColor=white)
 
-## `> ls modules/`
+*(Feel free to add other tools you might be currently picking up, such as Docker, React, or specific cloud providers!)*
 
-</div>
+---
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<br/>
+### 📊 GitHub Stats
 
-### 🧩 `moto-mate/`
-**Vehicle Service Station Management System**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AneshDanujaya&show_icons=true&theme=radium&hide_border=true" alt="Anesh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AneshDanujaya&theme=radium&hide_border=true" alt="Anesh's GitHub Streak" width="48%" />
+</p>
 
-> The architect side. Spec-driven, team-built, four roles working in sync.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneshDanujaya&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="50%" />
+</p>
 
-Group project (SCS2202 / IS2102) with a 4-person team — Admin, Customer, Technician, and Parts Manager, each with their own dashboard, built on zero frameworks.
+*(Note: The above stats cards will automatically populate and update based on your public GitHub activity once you paste them into your README!)*
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+---
 
-```diff
-+ 42 functional / 25 non-functional requirements
-+ Role-based auth: Admin · Customer · Technician · Parts Mgr
-+ Live-deployed signup & login flow
-```
+### 📫 Let's Connect!
 
-</td>
-<td width="50%" valign="top">
-<br/>
-
-### 📡 `deriv-bots/`
-**Automated Market Scanners**
-
-> The tinkerer side. Solo-built, signal-obsessed, always debugging edge cases.
-
-Personal project scanning Deriv volatility indices in real time via WebSocket — Digit Differ, Even/Odd, and Digit Matches — with recovery logic layered on top.
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/WebSocket-6366F1?style=flat-square&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/XML-A78BFA?style=flat-square&logo=xml&logoColor=white"/>
-
-```diff
-+ Martingale recovery systems
-+ Composite signal filters (OPT1 / OPT2 / OPT3)
-+ Live even/odd bias monitoring dashboard
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-## `> cat stack.json`
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&theme=dark" />
-
-<br/><br/>
-
-## `> git log --stats`
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AneshDanujaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AneshDanujaya&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AneshDanujaya&theme=tokyo-night&hide_border=true&area=true&border_radius=12" width="97%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-`> connect --linkedin`
-
-<a href="https://www.linkedin.com/in/aneshdanujaya/">
-  <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=AneshDanujaya&style=for-the-badge&color=6366F1&label=VISITORS" />
-
-<br/><br/>
-
-<sub>building in public, one commit at a time</sub>
-
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/aneshdanujaya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
