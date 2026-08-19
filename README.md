@@ -35,43 +35,6 @@ mode: Team player on academic projects, tinkerer on personal ones
 
 <br/>
 
-## 🚧 Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔧 Moto Mate
-**Vehicle Service Station Management System**
-
-Group project (SCS2202 / IS2102) built with a 4-person team. Web platform with four roles — Admin, Customer, Technician, Parts Manager — no frameworks, just HTML, CSS, JS, PHP, and MySQL.
-
-`HTML` `CSS` `JavaScript` `PHP` `MySQL`
-
-- 📋 42 functional + 25 non-functional requirements spec
-- 🚀 Live-deployed login/signup system
-- 🎨 Role-based dashboards with a shared theme
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Deriv Trading Bots
-**Automated Market Scanners**
-
-Personal project building WebSocket-driven scanner bots for Digit Differ, Even/Odd, and Digit Matches contracts on Deriv, with recovery logic and live bias tracking.
-
-`JavaScript` `WebSocket API` `XML (Deriv Bot)`
-
-- 🤖 Martingale recovery systems
-- 🎯 Composite signal filters (OPT1/OPT2/OPT3)
-- 📈 Live even/odd bias monitoring dashboard
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
