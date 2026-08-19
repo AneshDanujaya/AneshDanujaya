@@ -1,102 +1,59 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Anesh%20Danujaya&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computing%20Undergraduate%20%40%20UCSC%20%7C%20Web%20Dev%20%E2%86%92%20ML%20Engineering&descAlignY=58&descSize=18" />
+# Hi, I'm Anesh 👋
 
-<br/>
+### Computing undergraduate @ University of Colombo School of Computing (UCSC)
 
-<a href="https://www.linkedin.com/in/aneshdanujaya/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=AneshDanujaya&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=560&lines=Building+Moto+Mate+%E2%80%94+Service+Station+Platform;Automating+Trading+Signals+on+Deriv;2nd-Year+Computing+Student+at+UCSC;Learning+in+Public%2C+One+Commit+at+a+Time" />
+Building things with web tech now, aiming toward ML engineering next.
 
 </div>
 
-<br/>
+---
 
-## 🧭 About Me
+### 🧭 About Me
 
-```yaml
-name: Anesh Danujaya
-role: Computing Undergraduate @ University of Colombo School of Computing
-location: Western Province, Sri Lanka
-currently_building: Full-stack web apps as a foundation for ML Engineering
-also_exploring: Automated trading systems (WebSocket bots, signal filtering)
-mode: Team player on academic projects, tinkerer on personal ones
-```
+- 🎓 2nd-year undergraduate at **UCSC**, studying Computing
+- 💻 Currently building **full-stack web apps** as a foundation for a career in **ML Engineering**
+- 🤝 Working in teams on academic software projects — from requirements docs to deployed builds
+- 📈 Side interest: automated trading systems (WebSocket bots, signal filtering, martingale logic)
+- 📍 Western Province, Sri Lanka
 
-<br/>
+---
 
-## 🚧 Featured Work
+### 🚧 What I'm Working On
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**🔧 Moto Mate — Vehicle Service Station Management System**
+A group project (SCS2202/IS2102) built with a team of four. Web platform with four roles — Admin, Customer, Technician, Parts Manager — built with plain HTML, CSS, JavaScript, PHP, and MySQL (no frameworks). Covers everything from a full requirements spec (42 functional / 25 non-functional requirements) to a live-deployed login/signup system.
 
-### 🔧 Moto Mate
-**Vehicle Service Station Management System**
+**📊 Deriv Trading Bots**
+Personal project exploring automated trading on the Deriv platform. Multi-market scanner bots (Digit Differ, Even/Odd, Digit Matches) using WebSocket APIs, with martingale recovery systems, composite signal filters, and a live even/odd bias monitoring dashboard.
 
-Group project (SCS2202 / IS2102) built with a 4-person team. Web platform with four roles — Admin, Customer, Technician, Parts Manager — no frameworks, just HTML, CSS, JS, PHP, and MySQL.
+---
 
-`HTML` `CSS` `JavaScript` `PHP` `MySQL`
+### 🛠️ Tech I Use
 
-- 📋 42 functional + 25 non-functional requirements spec
-- 🚀 Live-deployed login/signup system
-- 🎨 Role-based dashboards with a shared theme
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 📊 Deriv Trading Bots
-**Automated Market Scanners**
+### 📫 Connect With Me
 
-Personal project building WebSocket-driven scanner bots for Digit Differ, Even/Odd, and Digit Matches contracts on Deriv, with recovery logic and live bias tracking.
+<p align="left">
+  <a href="https://www.linkedin.com/in/aneshdanujaya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-`JavaScript` `WebSocket API` `XML (Deriv Bot)`
-
-- 🤖 Martingale recovery systems
-- 🎯 Composite signal filters (OPT1/OPT2/OPT3)
-- 📈 Live even/odd bias monitoring dashboard
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🛠️ Tech Stack
+---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&theme=light" />
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AneshDanujaya&show_icons=true&theme=default&hide_title=false&count_private=true&border_radius=10" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AneshDanujaya&border_radius=10" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AneshDanujaya&theme=react-dark&hide_border=true&area=true&border_radius=10" width="98%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 💭 Currently
-Full-stack development today, ML engineering on the horizon.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AneshDanujaya&show_icons=true&theme=default&hide_title=false)
 
 </div>
